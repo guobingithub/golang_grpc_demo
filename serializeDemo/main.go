@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/golang/protobuf/proto"
-	"gRPC/serializeDemo/example"
+	"golang_grpc_demo/serializeDemo/example"
 	"log"
 )
 

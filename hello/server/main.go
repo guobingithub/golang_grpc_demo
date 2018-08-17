@@ -3,7 +3,7 @@ package main
 import (
 	"net"
 
-	pb "gRPC/proto" // 引入编译生成的包
+	pb "golang_grpc_demo/proto" // 引入编译生成的包
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
