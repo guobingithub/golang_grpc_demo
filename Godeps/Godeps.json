@@ -1,0 +1,15 @@
+{
+	"ImportPath": "golang_grpc_demo",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./serializeDemo/..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Comment": "v1.1.0-27-gaa810b6",
+			"Rev": "aa810b61a9c79d51363740d207bb46cf8e620ed5"
+		}
+	]
+}
